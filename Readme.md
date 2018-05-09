@@ -1,3 +1,6 @@
+The constant forking and modifying is one of the reasons I stopped using metalsmith.
+
+---
 
 # metalsmith-metadata
 
